@@ -1,16 +1,19 @@
-## Hi there 👋
+Yinghao Liu
 
-<!--
-**EatWhiteRice/EatWhiteRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Student | University of Electronic Science and Technology of China (UESTC)
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an undergraduate student at the University of Electronic Science and Technology of China (UESTC).
+
+My research interests include:
+- Computer Vision
+- 3D Vision and 3D Reconstruction
+- Image Reconstruction and Pansharpening
+- Generative Models and Spatial Intelligence
+
+Contact
+
+Email:2025310102017@std.uestc.edu.cn
+
+Affiliation:University of Electronic Science and Technology of China (UESTC)
